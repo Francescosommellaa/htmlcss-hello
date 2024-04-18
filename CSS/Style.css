@@ -1,7 +1,9 @@
 * {
     background-color: rgb(223, 223, 223);
+    text-align: center;
 }
 
-footer {
-    text-align: center;
+img {
+    border-radius: 20px;
+    height: 400px;
 }
